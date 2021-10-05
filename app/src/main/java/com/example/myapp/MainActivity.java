@@ -14,16 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         //hello world
 
-        Log.d("AAA","AAA");
+        Log.d("WWW","WWW");
 
-        
-        //My App
-
-        //my new line
-        //my new line
-        //my new line
-
-        Log.d("ABC","ABC");
-        Log.d("ABC","ABC");
     }
 }
