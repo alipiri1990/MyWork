@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("DDD","DDD");
         
         //My App
-        
-        public void a(){}
+
+        //my new line
     }
 }
