@@ -15,9 +15,7 @@ public class MainActivity extends AppCompatActivity {
         //hello world
 
         Log.d("AAA","AAA");
-        Log.d("BBB","BBB");
-        Log.d("CCC","CCC");
-        Log.d("DDD","DDD");
+
         
         //My App
 
