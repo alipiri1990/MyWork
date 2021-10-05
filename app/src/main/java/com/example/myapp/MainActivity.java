@@ -23,5 +23,9 @@ public class MainActivity extends AppCompatActivity {
 
         //my new line
         //my new line
+        //my new line
+
+        Log.d("ABC","ABC");
+        Log.d("ABC","ABC");
     }
 }
